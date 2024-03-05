@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JoelDcx
-- 👀 I’m interested in Pc gaming, cooking and Music
-- 🌱 I’m currently learning English translator
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 53joeldc@gmail
+- 👀 I’m interested in Pcs, cooking and music 
+- 🌱 English C1 Reached with a 100% of the qualification =), currenty learning JavaScript
+- 📫 How to reach me 53joeldc@gmail.com
 
 <!---
 JoelDcx/JoelDcx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
